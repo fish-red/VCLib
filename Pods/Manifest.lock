@@ -1,0 +1,36 @@
+PODS:
+  - CryptoSwift (0.6.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - MJExtension (3.0.13)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SnapKit (3.0.2)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - FMDB
+  - MagicalRecord
+  - MJExtension
+  - SDWebImage
+  - SnapKit (~> 3.0.2)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CryptoSwift: 4a599b7241b8d3b857d6e2c28867d0bd5d1aae24
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: 00139ff1dfc2867d40de3a36a744054e5e167448
+
+COCOAPODS: 1.1.0.beta.2
